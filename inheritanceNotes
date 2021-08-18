@@ -3,3 +3,7 @@ multiple inheritance:
 -which leads to ambiguity(confusion)
 -which is called diamond problem
 -multiple inheritance is replaced with interface
+
+
+-Method overloading is the example of compile time polymorphism
+-Method overriding is the example of run time polymorphism
