@@ -1,0 +1,5 @@
+multiple inheritance:
+-multiple inheritance is not implement in java
+-which leads to ambiguity(confusion)
+-which is called diamond problem
+-multiple inheritance is replaced with interface
